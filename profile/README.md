@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're DarkLabs, Booz Allen Hamilton's [elite multi-disciplinary team dedicated to Threat Modeling, Vulnerability Research, and Prototype Development](https://www.boozallen.com/expertise/cybersecurity/dark-labs.html). Our team is comprised of members with decades of experience in Defensive and Offensive Cyber Operations across the private and public industries.
+We're DarkLabs, Booz Allen Hamilton's elite multi-disciplinary team dedicated to [Threat Modeling, Vulnerability Research, and Prototype Development](https://www.boozallen.com/expertise/cybersecurity/dark-labs.html). Our team is comprised of members with decades of experience in Defensive and Offensive Cyber Operations across the private and public industries.
 
 You can find our public code, tools, and research here and our writings, and musings [on our blog](https://www.boozallen.com/insights/cyber/tech.html).
 
